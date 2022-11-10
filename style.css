@@ -85,7 +85,7 @@ body {
     margin-left: 1rem;
 }
 
-.plan .plan-price{
+.plan .plan-category{
     display: flex;
     width: 30%;
     flex-direction: column;
@@ -94,11 +94,14 @@ body {
     margin-right: 50px;
 }
 
-.plan-price h4{
+.plan-category .plan-name{
+    color: black;
     font-weight: 700;
+    font-size: 1rem;
+    padding: 0;
 }
 
-.plan .plan-price p{
+.plan .plan-category .plan-price{
     color: var(--Desaturated-blue-color);
     border: none;
 }
@@ -114,7 +117,7 @@ body {
 .btn{
     background-color: var(--Bright-blue-color);
     width: 80%;
-    padding: 10px 0;
+    padding: 15px 0;
     border: none;
     border-radius: 10px;
     color: white;
@@ -128,14 +131,16 @@ body {
     background-color: rgb(130, 110, 245);
 }
 
-.content-section h5{
+.content-section .cancel-button{
     cursor: pointer;
     font-weight: 900;
     margin-bottom: 25px;
     color: var(--Desaturated-blue-color);
+    padding: 0;
+    font-size: 0.85rem;
 }
 
-.content-section h5:hover{
+.content-section .cancel-button:hover{
     color: var(--Dark-blue-color);
 }
 
@@ -149,7 +154,7 @@ footer {
         transform: scale(0.8);
     }
 
-    .plan .plan-price{
+    .plan .plan-category{
         width: 40%;
         margin-right: 0;
     }
