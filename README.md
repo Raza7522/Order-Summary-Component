@@ -6,6 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -17,6 +18,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 Users should be able to:
 
 - See hover states for interactive elements
+
+### Links
+
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-page-design-using-cssflexbox-HFDaF1AX-A)
+- Live Site URL: [Live site URL](https://raza7522.github.io/Order-Summary-Component/)
 
 ## My process
 
